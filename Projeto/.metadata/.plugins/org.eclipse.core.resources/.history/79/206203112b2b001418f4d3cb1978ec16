@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Cadastro de Usuario</title>
+</head>
+<body>
+
+	<form action="usucontroller.do" method="post">
+		
+		<label >Nome : </label>
+		<input type="text" name="txtnome" value=""/>
+		<label> Login : </label>
+		<input type="text" name="txtlogin" value="" />
+		<label>Senha:</label>
+		<input type="password" name="txtsenha" value=""/>
+		
+		<input type="submit" value="Salvar"/>
+	
+	
+	</form>
+</body>
+</html>

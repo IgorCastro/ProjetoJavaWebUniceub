@@ -1,0 +1,15 @@
+127.0.0.1 - - [03/Sep/2014:10:42:46 -0300] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:00 -0300] "GET /Projeto_Java_SQL/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:00 -0300] "GET /Projeto_Java_SQL/login.html HTTP/1.1" 200 6237
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:00 -0300] "GET /Projeto_Java_SQL/js/prefixfree.min.js HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:00 -0300] "GET /Projeto_Java_SQL/js/index.js HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:00 -0300] "GET /Projeto_Java_SQL/js/login.html HTTP/1.1" 404 1052
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:00 -0300] "GET /Projeto_Java_SQL/js/login.html HTTP/1.1" 404 1052
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:10 -0300] "POST /Projeto_Java_SQL/autcontroller.do HTTP/1.1" 200 7193
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:11 -0300] "GET /Projeto_Java_SQL/js/prefixfree.min.js HTTP/1.1" 200 5888
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:11 -0300] "GET /Projeto_Java_SQL/js/index.js HTTP/1.1" 200 220
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:15 -0300] "GET /Projeto_Java_SQL/usucontroller.do?acao=lis HTTP/1.1" 200 8974
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:18 -0300] "GET /Projeto_Java_SQL/usucontroller.do?acao=alt&id=3 HTTP/1.1" 200 7785
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:45:30 -0300] "POST /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 200 6745
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:46:07 -0300] "GET /Projeto_Java_SQL/usucontroller.do?acao=lis HTTP/1.1" 200 8970
+0:0:0:0:0:0:0:1 - - [03/Sep/2014:10:50:29 -0300] "GET /Projeto_Java_SQL/ HTTP/1.1" 200 6237

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Cadastro de Usuario</title>
+</head>
+<body>
+
+	<form action="usucontroller.do" method="get">
+	
+	
+	
+	</form>
+</body>
+</html>

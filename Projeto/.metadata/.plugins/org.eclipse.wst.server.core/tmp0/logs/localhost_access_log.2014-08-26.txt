@@ -1,0 +1,4 @@
+127.0.0.1 - - [26/Aug/2014:09:07:38 -0300] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [26/Aug/2014:10:02:02 -0300] "GET /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 500 2775
+0:0:0:0:0:0:0:1 - - [26/Aug/2014:10:02:47 -0300] "GET /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 200 3151
+0:0:0:0:0:0:0:1 - - [26/Aug/2014:10:16:28 -0300] "GET /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 200 3151

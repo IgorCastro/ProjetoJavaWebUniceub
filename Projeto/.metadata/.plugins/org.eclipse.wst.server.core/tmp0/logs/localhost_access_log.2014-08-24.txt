@@ -1,0 +1,10 @@
+127.0.0.1 - - [24/Aug/2014:12:49:17 -0300] "GET / HTTP/1.1" 404 992
+127.0.0.1 - - [24/Aug/2014:12:54:56 -0300] "GET / HTTP/1.1" 404 992
+0:0:0:0:0:0:0:1 - - [24/Aug/2014:12:56:21 -0300] "GET /Projeto_Java_SQL/frmusuario.html HTTP/1.1" 200 605
+0:0:0:0:0:0:0:1 - - [24/Aug/2014:12:56:26 -0300] "POST /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [24/Aug/2014:12:57:21 -0300] "POST /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [24/Aug/2014:13:25:50 -0300] "POST /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [24/Aug/2014:13:26:14 -0300] "GET /Projeto_Java_SQL/frmusuario.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Aug/2014:13:26:28 -0300] "POST /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [24/Aug/2014:13:27:01 -0300] "POST /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 200 11
+0:0:0:0:0:0:0:1 - - [24/Aug/2014:13:37:49 -0300] "GET /Projeto_Java_SQL/usucontroller.do HTTP/1.1" 200 538

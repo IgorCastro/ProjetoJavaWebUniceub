@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [02/Sep/2014:09:28:08 -0300] "GET /Projeto_Java_SQL/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Sep/2014:09:28:08 -0300] "GET /Projeto_Java_SQL/login.html HTTP/1.1" 200 6237
+0:0:0:0:0:0:0:1 - - [02/Sep/2014:09:28:08 -0300] "GET /Projeto_Java_SQL/js/prefixfree.min.js HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Sep/2014:09:28:09 -0300] "GET /Projeto_Java_SQL/js/index.js HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [02/Sep/2014:09:28:09 -0300] "GET /Projeto_Java_SQL/js/login.html HTTP/1.1" 404 1052
+0:0:0:0:0:0:0:1 - - [02/Sep/2014:09:28:09 -0300] "GET /Projeto_Java_SQL/js/login.html HTTP/1.1" 404 1052
